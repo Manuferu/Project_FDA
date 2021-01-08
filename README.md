@@ -11,13 +11,13 @@ As a first step, it carries on an overview of the data by a deep analysis of the
 The aim is to see the behave of each of the variables and to potentially see potential correlation if any.
 
 ## Simple Linear Regression
-In this section we try to find the simple linear regression for the entire dataset, it has been calculated along with other lines that looked better fit the dataset trend.
+In this section we try to find the simple linear regression for the entire dataset, it has been calculated along with other lines proposed to compare.
 
 ## Accuracy
-By calculating the cost for each of the lines, it is certified that linear regression is the line with cost's lower value, so it's the better line among the proposed to fit best.
+By calculating the cost for each of the lines, it is certified that linear regression is the line with cost's lower value, so it's the better line among the proposed to fit best among the straight lines proposed
 
-## Alternative
-Since even with the linear regression, doesn't look the line match the dataset properly. It has been calculated a polynomial line for the model. After mean square error calculation, it has been demonstrated that for this dataset polynomial line match better than linear regression line.
+## Best fine line 
+Even with the linear regression, doesn't look the line match the dataset properly. as an alternative, it has been calculated a polynomial line to try to fit the model best. After mean square error calculation, it has been demonstrated that for large datasets where the straight line trends is broken, polynomial lines seems to fit the model better.
 
 
 ## contents in the folder
@@ -37,5 +37,9 @@ Since even with the linear regression, doesn't look the line match the dataset p
 
 (6) Statisticshowto: https://www.statisticshowto.com/line-of-best-fit/
 
-(7) Geeksforgeeks: https://www.geeksforgeeks.org/python-mean-squared-error/
+(7) geeksforgeeks : https://www.geeksforgeeks.org/python-mean-squared-error/
+
+(8) investopedia : https://www.investopedia.com/terms/p/polynomial_trending.asp
+
+(9) statisticshowto : https://www.statisticshowto.com/probability-and-statistics/regression-analysis/rmse-root-mean-square-error/
 
